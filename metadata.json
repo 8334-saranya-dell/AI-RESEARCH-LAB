@@ -1,0 +1,6 @@
+{
+  "name": "AI Research Lab Agent",
+  "description": "Structured AI research assistant that plans ML experiments, benchmarks model architectures, analyzes errors, and generates research reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
